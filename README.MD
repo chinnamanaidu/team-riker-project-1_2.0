@@ -6,7 +6,9 @@
 # Introduction:
     
 
-### Using data from the Bureau of Labor Statistics’s (BLS) Current Population Survey, we propose to examine the progress women, African-Americans, Latinx-Americans, and Asian-Americans have made into higher level jobs in the U.S. over the past 10 years and how well we can expect them to be represented in those occupations ten years from now. We will use the BLS’s annual labor force reports to answer the following questions:
+### Using data from the Bureau of Labor Statistics’s (BLS) Current Population Survey, we propose to examine the progress women, African-Americans, Latinx-Americans, and Asian-Americans have made into higher level jobs in the U.S. over the past 10 years and how well we can expect them to be represented in those occupations ten years from now. 
+
+#### We will use the BLS’s annual labor force reports to answer the following questions:
  
     1. How does the representation of women and people of color (POC) in professional and managerial positions compare to their representation in the labor force as a whole?  Is that relationship different than that of men and white people in those jobs compared to their representation in the labor force as a whole? 
     2. If women or POC are represented in higher level positions in a greater or lesser proportion than their share of the labor force, can we identify factors that might explain the difference.  For example, is representation in professional and managerial positions associated with: 
@@ -20,6 +22,6 @@
     
     
     
-# Descriotion:
 
+Data Source: Bureau of Labour (BLS.gov) given most of the data for processing
 
